@@ -1,0 +1,8 @@
+*__pycache__*
+/data
+*.pt
+logs*
+.vscode
+nohup.out
+*.DS_Store
+wandb
