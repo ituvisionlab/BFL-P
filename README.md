@@ -98,3 +98,4 @@ $\textbf{\Large Time per Communication Round}$
 | ------ | ------ | ------ |
 | Kadir Burak Buldu | buldu19@itu.edu.tr | [buldubu](https://github.com/buldubu) |
 | Atahan Özer | ozera17@itu.edu.tr | [TrubadurOsman](https://github.com/TrubadurOsman) |
+| Abdullah Akgül | akgula15@itu.edu.tr | [aportekila](https://github.com/aportekila) |
