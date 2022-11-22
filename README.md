@@ -1,5 +1,13 @@
 # A Parallel Federated Learning Framework
-This repository is created to experiment easily in parallel for the state of the art methods in Federated Learning. It also includes the implementation of [How to Combine Variational Bayesian Networks in Federated Learning](https://arxiv.org/abs/2206.10897) in Pytorch. Please cite the paper if you benefit from this framework. For further details, contact buldu19@itu.edu.tr or ozera17@itu.edu.tr.
+This repository is created to experiment easily in parallel for the state of the art methods in Federated Learning. It also includes the implementation of [How to Combine Variational Bayesian Networks in Federated Learning](https://arxiv.org/abs/2206.10897) in Pytorch. Please cite the paper if you benefit from this framework. For further details, contact buldu19@itu.edu.tr or ozera17@itu.edu.tr. 
+
+## Supported Algorithms 
+
+- SCAFFOLD
+- FedProx
+- FedAvg
+- FedNova
+- BFLAvg (Ours)
 
 # Requirements and Usage
 ## Requirements 
